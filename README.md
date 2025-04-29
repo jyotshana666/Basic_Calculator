@@ -17,9 +17,3 @@ Modular structure for easy extension
 -> VS Code
 
 -> Github
-
-#### How to Run 
-
-python calculator.py
-
-#### Program
