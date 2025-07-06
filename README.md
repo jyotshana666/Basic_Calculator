@@ -1,6 +1,6 @@
-# Basic_Calculator
+# Calculator
 
-A minimalistic, terminal-based calculator built using Python. It supports basic arithmetic operations including addition, subtraction, multiplication, and division.
+A minimalistic, terminal-based calculator built using Python. It supports basic arithmetic operations , Trigonometry	, Logarithmic, Exponential, Factorial .
 
 ### ✨ Features
 Clean and readable code
